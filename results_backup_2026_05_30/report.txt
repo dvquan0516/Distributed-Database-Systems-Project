@@ -1,0 +1,16 @@
+DISTRIBUTED JOIN ANALYSIS REPORT
+==================================================
+Breakeven Selectivity: 0.9100
+
+Best Semi Join Saving: 13.02%
+Occurred at Selectivity: 0.05
+
+Per Scenario Summary
+--------------------------------------------------
+Selectivity=0.01 | Ship Mean=4.8998s | Semi Mean=4.2798s | Ship Bytes=8775360 | Semi Bytes=145478
+Selectivity=0.05 | Ship Mean=5.0118s | Semi Mean=4.3594s | Ship Bytes=8767120 | Semi Bytes=491751
+Selectivity=0.10 | Ship Mean=4.8638s | Semi Mean=4.3740s | Ship Bytes=8756786 | Semi Bytes=924611
+Selectivity=0.25 | Ship Mean=4.9497s | Semi Mean=4.5447s | Ship Bytes=8739124 | Semi Bytes=2222907
+Selectivity=0.50 | Ship Mean=4.8183s | Semi Mean=4.5436s | Ship Bytes=8711433 | Semi Bytes=4386792
+Selectivity=0.75 | Ship Mean=4.9389s | Semi Mean=4.8558s | Ship Bytes=8683262 | Semi Bytes=6550367
+Selectivity=1.00 | Ship Mean=4.9280s | Semi Mean=4.9747s | Ship Bytes=8655710 | Semi Bytes=8714619

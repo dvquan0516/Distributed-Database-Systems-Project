@@ -1,0 +1,8 @@
+{
+    "orders": 10000,
+    "order_items": 100000,
+    "selectivity": 1.0,
+    "matching_rows": 100000,
+    "non_matching_rows": 0,
+    "random_seed": 42
+}

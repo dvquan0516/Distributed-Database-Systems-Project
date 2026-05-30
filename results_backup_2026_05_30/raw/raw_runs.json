@@ -1,0 +1,1262 @@
+[
+    {
+        "scenario": 0.01,
+        "run": 1,
+        "strategy": "ship_whole_table",
+        "time": 4.4308084999997845,
+        "bytes": 8775360,
+        "rows": 1000
+    },
+    {
+        "scenario": 0.01,
+        "run": 1,
+        "strategy": "semi_join",
+        "time": 4.252213799999936,
+        "bytes": 145478,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 86569,
+        "rows": 1000
+    },
+    {
+        "scenario": 0.01,
+        "run": 2,
+        "strategy": "ship_whole_table",
+        "time": 4.896348299999772,
+        "bytes": 8775360,
+        "rows": 1000
+    },
+    {
+        "scenario": 0.01,
+        "run": 2,
+        "strategy": "semi_join",
+        "time": 4.297740200000135,
+        "bytes": 145478,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 86569,
+        "rows": 1000
+    },
+    {
+        "scenario": 0.01,
+        "run": 3,
+        "strategy": "ship_whole_table",
+        "time": 4.9793156999999155,
+        "bytes": 8775360,
+        "rows": 1000
+    },
+    {
+        "scenario": 0.01,
+        "run": 3,
+        "strategy": "semi_join",
+        "time": 4.310145400000238,
+        "bytes": 145478,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 86569,
+        "rows": 1000
+    },
+    {
+        "scenario": 0.01,
+        "run": 4,
+        "strategy": "ship_whole_table",
+        "time": 5.093330599999717,
+        "bytes": 8775360,
+        "rows": 1000
+    },
+    {
+        "scenario": 0.01,
+        "run": 4,
+        "strategy": "semi_join",
+        "time": 4.273205500000131,
+        "bytes": 145478,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 86569,
+        "rows": 1000
+    },
+    {
+        "scenario": 0.01,
+        "run": 5,
+        "strategy": "ship_whole_table",
+        "time": 5.015821500000129,
+        "bytes": 8775360,
+        "rows": 1000
+    },
+    {
+        "scenario": 0.01,
+        "run": 5,
+        "strategy": "semi_join",
+        "time": 4.319188500000109,
+        "bytes": 145478,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 86569,
+        "rows": 1000
+    },
+    {
+        "scenario": 0.01,
+        "run": 6,
+        "strategy": "ship_whole_table",
+        "time": 4.946529400000145,
+        "bytes": 8775360,
+        "rows": 1000
+    },
+    {
+        "scenario": 0.01,
+        "run": 6,
+        "strategy": "semi_join",
+        "time": 4.282412000000022,
+        "bytes": 145478,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 86569,
+        "rows": 1000
+    },
+    {
+        "scenario": 0.01,
+        "run": 7,
+        "strategy": "ship_whole_table",
+        "time": 4.895847799999956,
+        "bytes": 8775360,
+        "rows": 1000
+    },
+    {
+        "scenario": 0.01,
+        "run": 7,
+        "strategy": "semi_join",
+        "time": 4.269568000000163,
+        "bytes": 145478,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 86569,
+        "rows": 1000
+    },
+    {
+        "scenario": 0.01,
+        "run": 8,
+        "strategy": "ship_whole_table",
+        "time": 5.133609800000158,
+        "bytes": 8775360,
+        "rows": 1000
+    },
+    {
+        "scenario": 0.01,
+        "run": 8,
+        "strategy": "semi_join",
+        "time": 4.286408400000255,
+        "bytes": 145478,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 86569,
+        "rows": 1000
+    },
+    {
+        "scenario": 0.01,
+        "run": 9,
+        "strategy": "ship_whole_table",
+        "time": 4.865438700000141,
+        "bytes": 8775360,
+        "rows": 1000
+    },
+    {
+        "scenario": 0.01,
+        "run": 9,
+        "strategy": "semi_join",
+        "time": 4.318209300000035,
+        "bytes": 145478,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 86569,
+        "rows": 1000
+    },
+    {
+        "scenario": 0.01,
+        "run": 10,
+        "strategy": "ship_whole_table",
+        "time": 4.74121550000018,
+        "bytes": 8775360,
+        "rows": 1000
+    },
+    {
+        "scenario": 0.01,
+        "run": 10,
+        "strategy": "semi_join",
+        "time": 4.1888082999998915,
+        "bytes": 145478,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 86569,
+        "rows": 1000
+    },
+    {
+        "scenario": 0.05,
+        "run": 1,
+        "strategy": "ship_whole_table",
+        "time": 5.0372096000000965,
+        "bytes": 8767120,
+        "rows": 5000
+    },
+    {
+        "scenario": 0.05,
+        "run": 1,
+        "strategy": "semi_join",
+        "time": 4.333666800000174,
+        "bytes": 491751,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 432842,
+        "rows": 5000
+    },
+    {
+        "scenario": 0.05,
+        "run": 2,
+        "strategy": "ship_whole_table",
+        "time": 4.985983199999737,
+        "bytes": 8767120,
+        "rows": 5000
+    },
+    {
+        "scenario": 0.05,
+        "run": 2,
+        "strategy": "semi_join",
+        "time": 4.352301200000056,
+        "bytes": 491751,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 432842,
+        "rows": 5000
+    },
+    {
+        "scenario": 0.05,
+        "run": 3,
+        "strategy": "ship_whole_table",
+        "time": 5.104666899999756,
+        "bytes": 8767120,
+        "rows": 5000
+    },
+    {
+        "scenario": 0.05,
+        "run": 3,
+        "strategy": "semi_join",
+        "time": 4.390975700000126,
+        "bytes": 491751,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 432842,
+        "rows": 5000
+    },
+    {
+        "scenario": 0.05,
+        "run": 4,
+        "strategy": "ship_whole_table",
+        "time": 5.047742700000072,
+        "bytes": 8767120,
+        "rows": 5000
+    },
+    {
+        "scenario": 0.05,
+        "run": 4,
+        "strategy": "semi_join",
+        "time": 4.36369650000006,
+        "bytes": 491751,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 432842,
+        "rows": 5000
+    },
+    {
+        "scenario": 0.05,
+        "run": 5,
+        "strategy": "ship_whole_table",
+        "time": 5.002171699999963,
+        "bytes": 8767120,
+        "rows": 5000
+    },
+    {
+        "scenario": 0.05,
+        "run": 5,
+        "strategy": "semi_join",
+        "time": 4.348155000000133,
+        "bytes": 491751,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 432842,
+        "rows": 5000
+    },
+    {
+        "scenario": 0.05,
+        "run": 6,
+        "strategy": "ship_whole_table",
+        "time": 4.992710399999851,
+        "bytes": 8767120,
+        "rows": 5000
+    },
+    {
+        "scenario": 0.05,
+        "run": 6,
+        "strategy": "semi_join",
+        "time": 4.379340500000126,
+        "bytes": 491751,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 432842,
+        "rows": 5000
+    },
+    {
+        "scenario": 0.05,
+        "run": 7,
+        "strategy": "ship_whole_table",
+        "time": 5.010072900000068,
+        "bytes": 8767120,
+        "rows": 5000
+    },
+    {
+        "scenario": 0.05,
+        "run": 7,
+        "strategy": "semi_join",
+        "time": 4.353693300000032,
+        "bytes": 491751,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 432842,
+        "rows": 5000
+    },
+    {
+        "scenario": 0.05,
+        "run": 8,
+        "strategy": "ship_whole_table",
+        "time": 4.968358699999953,
+        "bytes": 8767120,
+        "rows": 5000
+    },
+    {
+        "scenario": 0.05,
+        "run": 8,
+        "strategy": "semi_join",
+        "time": 4.352652900000066,
+        "bytes": 491751,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 432842,
+        "rows": 5000
+    },
+    {
+        "scenario": 0.05,
+        "run": 9,
+        "strategy": "ship_whole_table",
+        "time": 4.917912499999602,
+        "bytes": 8767120,
+        "rows": 5000
+    },
+    {
+        "scenario": 0.05,
+        "run": 9,
+        "strategy": "semi_join",
+        "time": 4.3527030999998715,
+        "bytes": 491751,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 432842,
+        "rows": 5000
+    },
+    {
+        "scenario": 0.05,
+        "run": 10,
+        "strategy": "ship_whole_table",
+        "time": 5.0516388999999435,
+        "bytes": 8767120,
+        "rows": 5000
+    },
+    {
+        "scenario": 0.05,
+        "run": 10,
+        "strategy": "semi_join",
+        "time": 4.367121899999802,
+        "bytes": 491751,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 432842,
+        "rows": 5000
+    },
+    {
+        "scenario": 0.1,
+        "run": 1,
+        "strategy": "ship_whole_table",
+        "time": 4.912289499999588,
+        "bytes": 8756786,
+        "rows": 10000
+    },
+    {
+        "scenario": 0.1,
+        "run": 1,
+        "strategy": "semi_join",
+        "time": 4.385130499999832,
+        "bytes": 924611,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 865702,
+        "rows": 10000
+    },
+    {
+        "scenario": 0.1,
+        "run": 2,
+        "strategy": "ship_whole_table",
+        "time": 4.9316977000003135,
+        "bytes": 8756786,
+        "rows": 10000
+    },
+    {
+        "scenario": 0.1,
+        "run": 2,
+        "strategy": "semi_join",
+        "time": 4.424056600000313,
+        "bytes": 924611,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 865702,
+        "rows": 10000
+    },
+    {
+        "scenario": 0.1,
+        "run": 3,
+        "strategy": "ship_whole_table",
+        "time": 4.986479000000145,
+        "bytes": 8756786,
+        "rows": 10000
+    },
+    {
+        "scenario": 0.1,
+        "run": 3,
+        "strategy": "semi_join",
+        "time": 4.398894999999811,
+        "bytes": 924611,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 865702,
+        "rows": 10000
+    },
+    {
+        "scenario": 0.1,
+        "run": 4,
+        "strategy": "ship_whole_table",
+        "time": 4.984021400000074,
+        "bytes": 8756786,
+        "rows": 10000
+    },
+    {
+        "scenario": 0.1,
+        "run": 4,
+        "strategy": "semi_join",
+        "time": 4.321207699999832,
+        "bytes": 924611,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 865702,
+        "rows": 10000
+    },
+    {
+        "scenario": 0.1,
+        "run": 5,
+        "strategy": "ship_whole_table",
+        "time": 4.442518199999995,
+        "bytes": 8756786,
+        "rows": 10000
+    },
+    {
+        "scenario": 0.1,
+        "run": 5,
+        "strategy": "semi_join",
+        "time": 4.224965400000201,
+        "bytes": 924611,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 865702,
+        "rows": 10000
+    },
+    {
+        "scenario": 0.1,
+        "run": 6,
+        "strategy": "ship_whole_table",
+        "time": 4.462055200000123,
+        "bytes": 8756786,
+        "rows": 10000
+    },
+    {
+        "scenario": 0.1,
+        "run": 6,
+        "strategy": "semi_join",
+        "time": 4.329273899999862,
+        "bytes": 924611,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 865702,
+        "rows": 10000
+    },
+    {
+        "scenario": 0.1,
+        "run": 7,
+        "strategy": "ship_whole_table",
+        "time": 4.986840999999913,
+        "bytes": 8756786,
+        "rows": 10000
+    },
+    {
+        "scenario": 0.1,
+        "run": 7,
+        "strategy": "semi_join",
+        "time": 4.4413603000002695,
+        "bytes": 924611,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 865702,
+        "rows": 10000
+    },
+    {
+        "scenario": 0.1,
+        "run": 8,
+        "strategy": "ship_whole_table",
+        "time": 4.962443800000074,
+        "bytes": 8756786,
+        "rows": 10000
+    },
+    {
+        "scenario": 0.1,
+        "run": 8,
+        "strategy": "semi_join",
+        "time": 4.379182799999853,
+        "bytes": 924611,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 865702,
+        "rows": 10000
+    },
+    {
+        "scenario": 0.1,
+        "run": 9,
+        "strategy": "ship_whole_table",
+        "time": 4.9997464000002765,
+        "bytes": 8756786,
+        "rows": 10000
+    },
+    {
+        "scenario": 0.1,
+        "run": 9,
+        "strategy": "semi_join",
+        "time": 4.432260900000074,
+        "bytes": 924611,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 865702,
+        "rows": 10000
+    },
+    {
+        "scenario": 0.1,
+        "run": 10,
+        "strategy": "ship_whole_table",
+        "time": 4.969477999999981,
+        "bytes": 8756786,
+        "rows": 10000
+    },
+    {
+        "scenario": 0.1,
+        "run": 10,
+        "strategy": "semi_join",
+        "time": 4.403388799999902,
+        "bytes": 924611,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 865702,
+        "rows": 10000
+    },
+    {
+        "scenario": 0.25,
+        "run": 1,
+        "strategy": "ship_whole_table",
+        "time": 4.986035999999785,
+        "bytes": 8739124,
+        "rows": 25000
+    },
+    {
+        "scenario": 0.25,
+        "run": 1,
+        "strategy": "semi_join",
+        "time": 4.488849599999867,
+        "bytes": 2222907,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 2163998,
+        "rows": 25000
+    },
+    {
+        "scenario": 0.25,
+        "run": 2,
+        "strategy": "ship_whole_table",
+        "time": 4.971451200000047,
+        "bytes": 8739124,
+        "rows": 25000
+    },
+    {
+        "scenario": 0.25,
+        "run": 2,
+        "strategy": "semi_join",
+        "time": 4.514981100000114,
+        "bytes": 2222907,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 2163998,
+        "rows": 25000
+    },
+    {
+        "scenario": 0.25,
+        "run": 3,
+        "strategy": "ship_whole_table",
+        "time": 4.953345999999783,
+        "bytes": 8739124,
+        "rows": 25000
+    },
+    {
+        "scenario": 0.25,
+        "run": 3,
+        "strategy": "semi_join",
+        "time": 4.519353000000137,
+        "bytes": 2222907,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 2163998,
+        "rows": 25000
+    },
+    {
+        "scenario": 0.25,
+        "run": 4,
+        "strategy": "ship_whole_table",
+        "time": 4.95993610000005,
+        "bytes": 8739124,
+        "rows": 25000
+    },
+    {
+        "scenario": 0.25,
+        "run": 4,
+        "strategy": "semi_join",
+        "time": 4.5550373999999465,
+        "bytes": 2222907,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 2163998,
+        "rows": 25000
+    },
+    {
+        "scenario": 0.25,
+        "run": 5,
+        "strategy": "ship_whole_table",
+        "time": 4.999130900000182,
+        "bytes": 8739124,
+        "rows": 25000
+    },
+    {
+        "scenario": 0.25,
+        "run": 5,
+        "strategy": "semi_join",
+        "time": 4.539564499999869,
+        "bytes": 2222907,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 2163998,
+        "rows": 25000
+    },
+    {
+        "scenario": 0.25,
+        "run": 6,
+        "strategy": "ship_whole_table",
+        "time": 4.961385600000085,
+        "bytes": 8739124,
+        "rows": 25000
+    },
+    {
+        "scenario": 0.25,
+        "run": 6,
+        "strategy": "semi_join",
+        "time": 4.476654900000085,
+        "bytes": 2222907,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 2163998,
+        "rows": 25000
+    },
+    {
+        "scenario": 0.25,
+        "run": 7,
+        "strategy": "ship_whole_table",
+        "time": 4.888976900000216,
+        "bytes": 8739124,
+        "rows": 25000
+    },
+    {
+        "scenario": 0.25,
+        "run": 7,
+        "strategy": "semi_join",
+        "time": 4.815930600000229,
+        "bytes": 2222907,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 2163998,
+        "rows": 25000
+    },
+    {
+        "scenario": 0.25,
+        "run": 8,
+        "strategy": "ship_whole_table",
+        "time": 4.9383074000002125,
+        "bytes": 8739124,
+        "rows": 25000
+    },
+    {
+        "scenario": 0.25,
+        "run": 8,
+        "strategy": "semi_join",
+        "time": 4.487251399999877,
+        "bytes": 2222907,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 2163998,
+        "rows": 25000
+    },
+    {
+        "scenario": 0.25,
+        "run": 9,
+        "strategy": "ship_whole_table",
+        "time": 4.9396928999999545,
+        "bytes": 8739124,
+        "rows": 25000
+    },
+    {
+        "scenario": 0.25,
+        "run": 9,
+        "strategy": "semi_join",
+        "time": 4.518982099999903,
+        "bytes": 2222907,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 2163998,
+        "rows": 25000
+    },
+    {
+        "scenario": 0.25,
+        "run": 10,
+        "strategy": "ship_whole_table",
+        "time": 4.899176100000204,
+        "bytes": 8739124,
+        "rows": 25000
+    },
+    {
+        "scenario": 0.25,
+        "run": 10,
+        "strategy": "semi_join",
+        "time": 4.530648399999791,
+        "bytes": 2222907,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 2163998,
+        "rows": 25000
+    },
+    {
+        "scenario": 0.5,
+        "run": 1,
+        "strategy": "ship_whole_table",
+        "time": 4.913508399999955,
+        "bytes": 8711433,
+        "rows": 50000
+    },
+    {
+        "scenario": 0.5,
+        "run": 1,
+        "strategy": "semi_join",
+        "time": 4.396992200000113,
+        "bytes": 4386792,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 4327883,
+        "rows": 50000
+    },
+    {
+        "scenario": 0.5,
+        "run": 2,
+        "strategy": "ship_whole_table",
+        "time": 4.579460800000106,
+        "bytes": 8711433,
+        "rows": 50000
+    },
+    {
+        "scenario": 0.5,
+        "run": 2,
+        "strategy": "semi_join",
+        "time": 4.341984899999716,
+        "bytes": 4386792,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 4327883,
+        "rows": 50000
+    },
+    {
+        "scenario": 0.5,
+        "run": 3,
+        "strategy": "ship_whole_table",
+        "time": 4.414677499999925,
+        "bytes": 8711433,
+        "rows": 50000
+    },
+    {
+        "scenario": 0.5,
+        "run": 3,
+        "strategy": "semi_join",
+        "time": 4.377992600000198,
+        "bytes": 4386792,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 4327883,
+        "rows": 50000
+    },
+    {
+        "scenario": 0.5,
+        "run": 4,
+        "strategy": "ship_whole_table",
+        "time": 4.413243500000135,
+        "bytes": 8711433,
+        "rows": 50000
+    },
+    {
+        "scenario": 0.5,
+        "run": 4,
+        "strategy": "semi_join",
+        "time": 4.34648819999984,
+        "bytes": 4386792,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 4327883,
+        "rows": 50000
+    },
+    {
+        "scenario": 0.5,
+        "run": 5,
+        "strategy": "ship_whole_table",
+        "time": 5.001537300000109,
+        "bytes": 8711433,
+        "rows": 50000
+    },
+    {
+        "scenario": 0.5,
+        "run": 5,
+        "strategy": "semi_join",
+        "time": 4.663870100000167,
+        "bytes": 4386792,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 4327883,
+        "rows": 50000
+    },
+    {
+        "scenario": 0.5,
+        "run": 6,
+        "strategy": "ship_whole_table",
+        "time": 4.955247399999735,
+        "bytes": 8711433,
+        "rows": 50000
+    },
+    {
+        "scenario": 0.5,
+        "run": 6,
+        "strategy": "semi_join",
+        "time": 4.697019799999907,
+        "bytes": 4386792,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 4327883,
+        "rows": 50000
+    },
+    {
+        "scenario": 0.5,
+        "run": 7,
+        "strategy": "ship_whole_table",
+        "time": 4.986773399999947,
+        "bytes": 8711433,
+        "rows": 50000
+    },
+    {
+        "scenario": 0.5,
+        "run": 7,
+        "strategy": "semi_join",
+        "time": 4.675535299999865,
+        "bytes": 4386792,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 4327883,
+        "rows": 50000
+    },
+    {
+        "scenario": 0.5,
+        "run": 8,
+        "strategy": "ship_whole_table",
+        "time": 4.972760699999981,
+        "bytes": 8711433,
+        "rows": 50000
+    },
+    {
+        "scenario": 0.5,
+        "run": 8,
+        "strategy": "semi_join",
+        "time": 4.629563200000121,
+        "bytes": 4386792,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 4327883,
+        "rows": 50000
+    },
+    {
+        "scenario": 0.5,
+        "run": 9,
+        "strategy": "ship_whole_table",
+        "time": 4.948252200000297,
+        "bytes": 8711433,
+        "rows": 50000
+    },
+    {
+        "scenario": 0.5,
+        "run": 9,
+        "strategy": "semi_join",
+        "time": 4.655642700000044,
+        "bytes": 4386792,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 4327883,
+        "rows": 50000
+    },
+    {
+        "scenario": 0.5,
+        "run": 10,
+        "strategy": "ship_whole_table",
+        "time": 4.99783189999971,
+        "bytes": 8711433,
+        "rows": 50000
+    },
+    {
+        "scenario": 0.5,
+        "run": 10,
+        "strategy": "semi_join",
+        "time": 4.650831699999799,
+        "bytes": 4386792,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 4327883,
+        "rows": 50000
+    },
+    {
+        "scenario": 0.75,
+        "run": 1,
+        "strategy": "ship_whole_table",
+        "time": 4.9938482000002296,
+        "bytes": 8683262,
+        "rows": 75000
+    },
+    {
+        "scenario": 0.75,
+        "run": 1,
+        "strategy": "semi_join",
+        "time": 4.848343199999817,
+        "bytes": 6550367,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 6491458,
+        "rows": 75000
+    },
+    {
+        "scenario": 0.75,
+        "run": 2,
+        "strategy": "ship_whole_table",
+        "time": 4.958015700000033,
+        "bytes": 8683262,
+        "rows": 75000
+    },
+    {
+        "scenario": 0.75,
+        "run": 2,
+        "strategy": "semi_join",
+        "time": 4.924118100000214,
+        "bytes": 6550367,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 6491458,
+        "rows": 75000
+    },
+    {
+        "scenario": 0.75,
+        "run": 3,
+        "strategy": "ship_whole_table",
+        "time": 4.998220500000116,
+        "bytes": 8683262,
+        "rows": 75000
+    },
+    {
+        "scenario": 0.75,
+        "run": 3,
+        "strategy": "semi_join",
+        "time": 4.814786399999775,
+        "bytes": 6550367,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 6491458,
+        "rows": 75000
+    },
+    {
+        "scenario": 0.75,
+        "run": 4,
+        "strategy": "ship_whole_table",
+        "time": 4.9667906999998195,
+        "bytes": 8683262,
+        "rows": 75000
+    },
+    {
+        "scenario": 0.75,
+        "run": 4,
+        "strategy": "semi_join",
+        "time": 4.79368680000016,
+        "bytes": 6550367,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 6491458,
+        "rows": 75000
+    },
+    {
+        "scenario": 0.75,
+        "run": 5,
+        "strategy": "ship_whole_table",
+        "time": 4.949900399999933,
+        "bytes": 8683262,
+        "rows": 75000
+    },
+    {
+        "scenario": 0.75,
+        "run": 5,
+        "strategy": "semi_join",
+        "time": 4.881558900000073,
+        "bytes": 6550367,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 6491458,
+        "rows": 75000
+    },
+    {
+        "scenario": 0.75,
+        "run": 6,
+        "strategy": "ship_whole_table",
+        "time": 4.935203300000012,
+        "bytes": 8683262,
+        "rows": 75000
+    },
+    {
+        "scenario": 0.75,
+        "run": 6,
+        "strategy": "semi_join",
+        "time": 4.806982799999787,
+        "bytes": 6550367,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 6491458,
+        "rows": 75000
+    },
+    {
+        "scenario": 0.75,
+        "run": 7,
+        "strategy": "ship_whole_table",
+        "time": 4.895132499999818,
+        "bytes": 8683262,
+        "rows": 75000
+    },
+    {
+        "scenario": 0.75,
+        "run": 7,
+        "strategy": "semi_join",
+        "time": 4.818059400000038,
+        "bytes": 6550367,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 6491458,
+        "rows": 75000
+    },
+    {
+        "scenario": 0.75,
+        "run": 8,
+        "strategy": "ship_whole_table",
+        "time": 4.905177799999819,
+        "bytes": 8683262,
+        "rows": 75000
+    },
+    {
+        "scenario": 0.75,
+        "run": 8,
+        "strategy": "semi_join",
+        "time": 4.828253900000163,
+        "bytes": 6550367,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 6491458,
+        "rows": 75000
+    },
+    {
+        "scenario": 0.75,
+        "run": 9,
+        "strategy": "ship_whole_table",
+        "time": 4.883298599999762,
+        "bytes": 8683262,
+        "rows": 75000
+    },
+    {
+        "scenario": 0.75,
+        "run": 9,
+        "strategy": "semi_join",
+        "time": 4.897450899999967,
+        "bytes": 6550367,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 6491458,
+        "rows": 75000
+    },
+    {
+        "scenario": 0.75,
+        "run": 10,
+        "strategy": "ship_whole_table",
+        "time": 4.903084000000035,
+        "bytes": 8683262,
+        "rows": 75000
+    },
+    {
+        "scenario": 0.75,
+        "run": 10,
+        "strategy": "semi_join",
+        "time": 4.944933900000251,
+        "bytes": 6550367,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 6491458,
+        "rows": 75000
+    },
+    {
+        "scenario": 1.0,
+        "run": 1,
+        "strategy": "ship_whole_table",
+        "time": 4.9963534000003165,
+        "bytes": 8655710,
+        "rows": 100000
+    },
+    {
+        "scenario": 1.0,
+        "run": 1,
+        "strategy": "semi_join",
+        "time": 4.946528499999658,
+        "bytes": 8714619,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 8655710,
+        "rows": 100000
+    },
+    {
+        "scenario": 1.0,
+        "run": 2,
+        "strategy": "ship_whole_table",
+        "time": 4.913830699999835,
+        "bytes": 8655710,
+        "rows": 100000
+    },
+    {
+        "scenario": 1.0,
+        "run": 2,
+        "strategy": "semi_join",
+        "time": 4.930093399999805,
+        "bytes": 8714619,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 8655710,
+        "rows": 100000
+    },
+    {
+        "scenario": 1.0,
+        "run": 3,
+        "strategy": "ship_whole_table",
+        "time": 4.87862559999985,
+        "bytes": 8655710,
+        "rows": 100000
+    },
+    {
+        "scenario": 1.0,
+        "run": 3,
+        "strategy": "semi_join",
+        "time": 4.966387899999972,
+        "bytes": 8714619,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 8655710,
+        "rows": 100000
+    },
+    {
+        "scenario": 1.0,
+        "run": 4,
+        "strategy": "ship_whole_table",
+        "time": 4.936892700000044,
+        "bytes": 8655710,
+        "rows": 100000
+    },
+    {
+        "scenario": 1.0,
+        "run": 4,
+        "strategy": "semi_join",
+        "time": 4.986710499999845,
+        "bytes": 8714619,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 8655710,
+        "rows": 100000
+    },
+    {
+        "scenario": 1.0,
+        "run": 5,
+        "strategy": "ship_whole_table",
+        "time": 4.872489399999722,
+        "bytes": 8655710,
+        "rows": 100000
+    },
+    {
+        "scenario": 1.0,
+        "run": 5,
+        "strategy": "semi_join",
+        "time": 4.944648000000143,
+        "bytes": 8714619,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 8655710,
+        "rows": 100000
+    },
+    {
+        "scenario": 1.0,
+        "run": 6,
+        "strategy": "ship_whole_table",
+        "time": 4.970139900000049,
+        "bytes": 8655710,
+        "rows": 100000
+    },
+    {
+        "scenario": 1.0,
+        "run": 6,
+        "strategy": "semi_join",
+        "time": 4.9434472999996615,
+        "bytes": 8714619,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 8655710,
+        "rows": 100000
+    },
+    {
+        "scenario": 1.0,
+        "run": 7,
+        "strategy": "ship_whole_table",
+        "time": 4.910675300000094,
+        "bytes": 8655710,
+        "rows": 100000
+    },
+    {
+        "scenario": 1.0,
+        "run": 7,
+        "strategy": "semi_join",
+        "time": 4.992333099999996,
+        "bytes": 8714619,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 8655710,
+        "rows": 100000
+    },
+    {
+        "scenario": 1.0,
+        "run": 8,
+        "strategy": "ship_whole_table",
+        "time": 4.931646499999715,
+        "bytes": 8655710,
+        "rows": 100000
+    },
+    {
+        "scenario": 1.0,
+        "run": 8,
+        "strategy": "semi_join",
+        "time": 5.056810900000073,
+        "bytes": 8714619,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 8655710,
+        "rows": 100000
+    },
+    {
+        "scenario": 1.0,
+        "run": 9,
+        "strategy": "ship_whole_table",
+        "time": 4.89309460000004,
+        "bytes": 8655710,
+        "rows": 100000
+    },
+    {
+        "scenario": 1.0,
+        "run": 9,
+        "strategy": "semi_join",
+        "time": 4.977780400000029,
+        "bytes": 8714619,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 8655710,
+        "rows": 100000
+    },
+    {
+        "scenario": 1.0,
+        "run": 10,
+        "strategy": "ship_whole_table",
+        "time": 4.9758812000000034,
+        "bytes": 8655710,
+        "rows": 100000
+    },
+    {
+        "scenario": 1.0,
+        "run": 10,
+        "strategy": "semi_join",
+        "time": 5.002019800000198,
+        "bytes": 8714619,
+        "ids_sent_bytes": 58909,
+        "rows_returned_bytes": 8655710,
+        "rows": 100000
+    }
+]
