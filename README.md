@@ -1,4 +1,5 @@
-# Distributed Join Strategy Benchmark: Ship Whole Table Join vs Semi Join
+# Distributed Join Algorithm Shootout: "Orders & Items" 
+Distributed Join Strategy Benchmark: Ship Whole Table Join vs Semi Join
 
 ## Overview
 
