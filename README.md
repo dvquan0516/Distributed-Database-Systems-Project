@@ -1,4 +1,4 @@
-# Distributed Join Shootout
+# Distributed Join Strategy Benchmark: Ship Whole Table Join vs Semi Join
 
 ## Overview
 
